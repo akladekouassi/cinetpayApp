@@ -79,7 +79,7 @@
   "scripts": {
     "---------- DEVELOPMENT ---------------------------------------------------------------------------------": "",
     "------ALL-DEVELOPMENT-CMDs------": "",
-    "dev": "env-cmd -e local_dev -r env-cmd.js react-scripts start",
+    "start": "env-cmd -e local_dev -r env-cmd.js react-scripts start",
     "------ALL-BUILDs-CMDs------": "",
     "build": "react-scripts build",
     "------ALL-LINTING-CMDs------": "",

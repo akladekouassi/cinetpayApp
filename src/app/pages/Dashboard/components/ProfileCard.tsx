@@ -147,7 +147,7 @@ export const UserProfileReviewCard = ({ data }: any) => {
             </Bloc>
             <a href={data.html_url} style={{ textDecoration: 'none' }} target="_blank" rel="noopener noreferrer">
               <Button variant="contained" className={classes.disposeButton}>
-                Visiter reposotory
+                Visiter repository
               </Button>
             </a>
           </CardContent>
